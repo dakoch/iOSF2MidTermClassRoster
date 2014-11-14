@@ -14,6 +14,7 @@
 		74273A751A102DCD008FFEB1 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 74273A731A102DCD008FFEB1 /* LaunchScreen.xib */; };
 		74273A811A102DCD008FFEB1 /* iOSF2MidTermClassRosterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74273A801A102DCD008FFEB1 /* iOSF2MidTermClassRosterTests.swift */; };
 		74273A8B1A102F8E008FFEB1 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74273A8A1A102F8E008FFEB1 /* Person.swift */; };
+		74682BDA1A11B12900C954B2 /* NOTES.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74682BD91A11B12900C954B2 /* NOTES.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		74273A7F1A102DCD008FFEB1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		74273A801A102DCD008FFEB1 /* iOSF2MidTermClassRosterTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOSF2MidTermClassRosterTests.swift; sourceTree = "<group>"; };
 		74273A8A1A102F8E008FFEB1 /* Person.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
+		74682BD91A11B12900C954B2 /* NOTES.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NOTES.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,10 +81,10 @@
 		74273A671A102DCC008FFEB1 /* iOSF2MidTermClassRoster */ = {
 			isa = PBXGroup;
 			children = (
-				74273A6A1A102DCC008FFEB1 /* AppDelegate.swift */,
-				74273A6C1A102DCC008FFEB1 /* ViewController.swift */,
-				74273A8A1A102F8E008FFEB1 /* Person.swift */,
-				74273A6E1A102DCC008FFEB1 /* Main.storyboard */,
+				74682BD81A11AED600C954B2 /* Delegates */,
+				74682BD71A11AEBB00C954B2 /* ControllerLayer */,
+				74682BD61A11AEB100C954B2 /* ModelLayer */,
+				74682BD51A11AE9A00C954B2 /* ViewLayer */,
 				74273A711A102DCC008FFEB1 /* Images.xcassets */,
 				74273A731A102DCD008FFEB1 /* LaunchScreen.xib */,
 				74273A681A102DCC008FFEB1 /* Supporting Files */,
@@ -93,6 +95,7 @@
 		74273A681A102DCC008FFEB1 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				74682BD91A11B12900C954B2 /* NOTES.swift */,
 				74273A691A102DCC008FFEB1 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -113,6 +116,38 @@
 				74273A7F1A102DCD008FFEB1 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		74682BD51A11AE9A00C954B2 /* ViewLayer */ = {
+			isa = PBXGroup;
+			children = (
+				74273A6E1A102DCC008FFEB1 /* Main.storyboard */,
+			);
+			name = ViewLayer;
+			sourceTree = "<group>";
+		};
+		74682BD61A11AEB100C954B2 /* ModelLayer */ = {
+			isa = PBXGroup;
+			children = (
+				74273A8A1A102F8E008FFEB1 /* Person.swift */,
+			);
+			name = ModelLayer;
+			sourceTree = "<group>";
+		};
+		74682BD71A11AEBB00C954B2 /* ControllerLayer */ = {
+			isa = PBXGroup;
+			children = (
+				74273A6C1A102DCC008FFEB1 /* ViewController.swift */,
+			);
+			name = ControllerLayer;
+			sourceTree = "<group>";
+		};
+		74682BD81A11AED600C954B2 /* Delegates */ = {
+			isa = PBXGroup;
+			children = (
+				74273A6A1A102DCC008FFEB1 /* AppDelegate.swift */,
+			);
+			name = Delegates;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -218,6 +253,7 @@
 				74273A8B1A102F8E008FFEB1 /* Person.swift in Sources */,
 				74273A6D1A102DCC008FFEB1 /* ViewController.swift in Sources */,
 				74273A6B1A102DCC008FFEB1 /* AppDelegate.swift in Sources */,
+				74682BDA1A11B12900C954B2 /* NOTES.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -409,6 +445,7 @@
 				74273A861A102DCD008FFEB1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		74273A871A102DCD008FFEB1 /* Build configuration list for PBXNativeTarget "iOSF2MidTermClassRosterTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +454,7 @@
 				74273A891A102DCD008FFEB1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -30,12 +30,6 @@ class Person {   // 01.A
 
     var fullName  : String = ""
 
-    init() {
-        setFirstName("")
-        setLastName("")
-        setIsStudent( false )
-    }
-
     //  01.E
     init( firstName : String, lastName : String ) {
         setFirstName( firstName )

@@ -14,8 +14,20 @@
 		74273A751A102DCD008FFEB1 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 74273A731A102DCD008FFEB1 /* LaunchScreen.xib */; };
 		74273A811A102DCD008FFEB1 /* iOSF2MidTermClassRosterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74273A801A102DCD008FFEB1 /* iOSF2MidTermClassRosterTests.swift */; };
 		74273A8B1A102F8E008FFEB1 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74273A8A1A102F8E008FFEB1 /* Person.swift */; };
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 		74682BCA1A10667F00C954B2 /* NOTES.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74682BC91A10667F00C954B2 /* NOTES.swift */; };
 		74682BCC1A106E8000C954B2 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74682BCB1A106E8000C954B2 /* DetailViewController.swift */; };
+=======
+		74682BDA1A11B12900C954B2 /* NOTES.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74682BD91A11B12900C954B2 /* NOTES.swift */; };
+>>>>>>> FETCH_HEAD
+=======
+		74682BDA1A11B12900C954B2 /* NOTES.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74682BD91A11B12900C954B2 /* NOTES.swift */; };
+>>>>>>> FETCH_HEAD
+=======
+		74682BDA1A11B12900C954B2 /* NOTES.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74682BD91A11B12900C954B2 /* NOTES.swift */; };
+>>>>>>> FETCH_HEAD
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,8 +52,20 @@
 		74273A7F1A102DCD008FFEB1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		74273A801A102DCD008FFEB1 /* iOSF2MidTermClassRosterTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOSF2MidTermClassRosterTests.swift; sourceTree = "<group>"; };
 		74273A8A1A102F8E008FFEB1 /* Person.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 		74682BC91A10667F00C954B2 /* NOTES.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NOTES.swift; sourceTree = "<group>"; };
 		74682BCB1A106E8000C954B2 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+=======
+		74682BD91A11B12900C954B2 /* NOTES.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NOTES.swift; sourceTree = "<group>"; };
+>>>>>>> FETCH_HEAD
+=======
+		74682BD91A11B12900C954B2 /* NOTES.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NOTES.swift; sourceTree = "<group>"; };
+>>>>>>> FETCH_HEAD
+=======
+		74682BD91A11B12900C954B2 /* NOTES.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NOTES.swift; sourceTree = "<group>"; };
+>>>>>>> FETCH_HEAD
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,10 +107,29 @@
 		74273A671A102DCC008FFEB1 /* iOSF2MidTermClassRoster */ = {
 			isa = PBXGroup;
 			children = (
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 				74682BD01A1073FF00C954B2 /* Delegates */,
 				74682BCD1A10738200C954B2 /* ControllerLayer */,
 				74682BCE1A1073AD00C954B2 /* ModelLayer */,
 				74682BCF1A1073BB00C954B2 /* ViewLayer */,
+=======
+=======
+>>>>>>> FETCH_HEAD
+=======
+>>>>>>> FETCH_HEAD
+				74682BD81A11AED600C954B2 /* Delegates */,
+				74682BD71A11AEBB00C954B2 /* ControllerLayer */,
+				74682BD61A11AEB100C954B2 /* ModelLayer */,
+				74682BD51A11AE9A00C954B2 /* ViewLayer */,
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> FETCH_HEAD
+=======
+>>>>>>> FETCH_HEAD
+=======
+>>>>>>> FETCH_HEAD
 				74273A711A102DCC008FFEB1 /* Images.xcassets */,
 				74273A731A102DCD008FFEB1 /* LaunchScreen.xib */,
 				74273A681A102DCC008FFEB1 /* Supporting Files */,
@@ -97,6 +140,7 @@
 		74273A681A102DCC008FFEB1 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				74682BD91A11B12900C954B2 /* NOTES.swift */,
 				74273A691A102DCC008FFEB1 /* Info.plist */,
 				74682BC91A10667F00C954B2 /* NOTES.swift */,
 			);
@@ -120,6 +164,9 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 		74682BCD1A10738200C954B2 /* ControllerLayer */ = {
 			isa = PBXGroup;
 			children = (
@@ -130,6 +177,27 @@
 			sourceTree = "<group>";
 		};
 		74682BCE1A1073AD00C954B2 /* ModelLayer */ = {
+=======
+=======
+>>>>>>> FETCH_HEAD
+=======
+>>>>>>> FETCH_HEAD
+		74682BD51A11AE9A00C954B2 /* ViewLayer */ = {
+			isa = PBXGroup;
+			children = (
+				74273A6E1A102DCC008FFEB1 /* Main.storyboard */,
+			);
+			name = ViewLayer;
+			sourceTree = "<group>";
+		};
+		74682BD61A11AEB100C954B2 /* ModelLayer */ = {
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> FETCH_HEAD
+=======
+>>>>>>> FETCH_HEAD
+=======
+>>>>>>> FETCH_HEAD
 			isa = PBXGroup;
 			children = (
 				74273A8A1A102F8E008FFEB1 /* Person.swift */,
@@ -137,6 +205,9 @@
 			name = ModelLayer;
 			sourceTree = "<group>";
 		};
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 		74682BCF1A1073BB00C954B2 /* ViewLayer */ = {
 			isa = PBXGroup;
 			children = (
@@ -146,6 +217,27 @@
 			sourceTree = "<group>";
 		};
 		74682BD01A1073FF00C954B2 /* Delegates */ = {
+=======
+=======
+>>>>>>> FETCH_HEAD
+=======
+>>>>>>> FETCH_HEAD
+		74682BD71A11AEBB00C954B2 /* ControllerLayer */ = {
+			isa = PBXGroup;
+			children = (
+				74273A6C1A102DCC008FFEB1 /* ViewController.swift */,
+			);
+			name = ControllerLayer;
+			sourceTree = "<group>";
+		};
+		74682BD81A11AED600C954B2 /* Delegates */ = {
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> FETCH_HEAD
+=======
+>>>>>>> FETCH_HEAD
+=======
+>>>>>>> FETCH_HEAD
 			isa = PBXGroup;
 			children = (
 				74273A6A1A102DCC008FFEB1 /* AppDelegate.swift */,
@@ -257,7 +349,19 @@
 				74273A6D1A102DCC008FFEB1 /* ViewController.swift in Sources */,
 				74682BCC1A106E8000C954B2 /* DetailViewController.swift in Sources */,
 				74273A6B1A102DCC008FFEB1 /* AppDelegate.swift in Sources */,
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 				74682BCA1A10667F00C954B2 /* NOTES.swift in Sources */,
+=======
+				74682BDA1A11B12900C954B2 /* NOTES.swift in Sources */,
+>>>>>>> FETCH_HEAD
+=======
+				74682BDA1A11B12900C954B2 /* NOTES.swift in Sources */,
+>>>>>>> FETCH_HEAD
+=======
+				74682BDA1A11B12900C954B2 /* NOTES.swift in Sources */,
+>>>>>>> FETCH_HEAD
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -30,4 +30,21 @@ class DetailViewController: UIViewController {
     }
 
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 }
+=======
+=======
+>>>>>>> FETCH_HEAD
+=======
+>>>>>>> FETCH_HEAD
+    // MARK: - Navigation
+    // In a storyboard-based application, you will often want to do a little preparation before navigation
+    override func prepareForSegue(segue: UIStoryboardSegue, sender: AnyObject?) {
+        println("DetailViewController::prepareForSegue sender: \(self.sender.title)")
+        // Get the new view controller using segue.destinationViewController.
+        // Pass the selected object to the new view controller.
+    }
+}
+>>>>>>> FETCH_HEAD

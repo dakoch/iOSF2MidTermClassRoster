@@ -64,6 +64,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             <point key="canvasLocation" x="-489" y="-89"/>
         </scene>
         <!--View Controller-->
@@ -83,6 +84,9 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="L4b-9g-TWm" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="350" y="-37"/>
+=======
+            <point key="canvasLocation" x="-2025" y="149"/>
+>>>>>>> FETCH_HEAD
 =======
             <point key="canvasLocation" x="-2025" y="149"/>
 >>>>>>> FETCH_HEAD

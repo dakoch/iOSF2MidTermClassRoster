@@ -8,7 +8,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<string>45EDD1D1-6C5D-4D6D-93DC-1CF79FBF8353</string>
+=======
+	<string>3BF2AB34-F1F2-4BB0-9562-886B6FF3B8CB</string>
+>>>>>>> FETCH_HEAD
 =======
 	<string>3BF2AB34-F1F2-4BB0-9562-886B6FF3B8CB</string>
 >>>>>>> FETCH_HEAD
@@ -25,8 +29,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 		<key>384E86603059B7F662B40E62D8E08E9DA9C1B1CE</key>
 		<string>https://github.com/dakoch/iOSF2MidTermClassRoster.git</string>
+=======
+>>>>>>> FETCH_HEAD
 =======
 >>>>>>> FETCH_HEAD
 =======
@@ -40,11 +47,17 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<string>iOSF2MidTermClassRoster.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>384E86603059B7F662B40E62D8E08E9DA9C1B1CE</key>
 		<string>../..</string>
+=======
+	<string>iOSF2MidTermClassRoster/iOSF2MidTermClassRoster.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+>>>>>>> FETCH_HEAD
 =======
 	<string>iOSF2MidTermClassRoster/iOSF2MidTermClassRoster.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
@@ -71,7 +84,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<string>384E86603059B7F662B40E62D8E08E9DA9C1B1CE</string>
+=======
+	<string>6AFAD6325BFC8CFE2C2583D37151EC406E6A0B24</string>
+>>>>>>> FETCH_HEAD
 =======
 	<string>6AFAD6325BFC8CFE2C2583D37151EC406E6A0B24</string>
 >>>>>>> FETCH_HEAD
@@ -92,6 +109,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 			<string></string>
 		</dict>
 		<dict>
@@ -100,6 +118,8 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>384E86603059B7F662B40E62D8E08E9DA9C1B1CE</string>
 			<key>IDESourceControlWCCName</key>
+=======
+>>>>>>> FETCH_HEAD
 =======
 >>>>>>> FETCH_HEAD
 =======
